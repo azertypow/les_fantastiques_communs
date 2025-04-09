@@ -59,6 +59,26 @@ strong {
     background: var(--app-color-beige--dark);
     border-radius: 1rem;
     max-width: 25em;
-    color: var(--app-color-beige)
+    color: var(--app-color-beige);
+
+    &:nth-child(2n+2) {
+      max-width: 30em;
+    }
+
+    &:nth-child(3n+3) {
+      max-width: 22em;
+    }
+
+    &:nth-child(4n+4) {
+      max-width: 28em;
+    }
   }
+}
+
+.app-button {
+  all: unset;
+  background: white;
+  border: solid;
+  padding: 1rem;
+  border-radius: 3em;
 }

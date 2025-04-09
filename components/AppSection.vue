@@ -10,11 +10,12 @@
              ref="appSectionElement"
              :id="uniq_id"
     >
-      <div class="v-app-section__title app-rm-user-event">
+      <div class="v-app-section__title"
+      >
         <h2 class="app-rm-horizontal-margins v-app-section__title__element app-font-small-title"
         >{{title}}</h2>
       </div>
-      <div class="v-app-section__header app-rm-user-event">
+      <div class="v-app-section__header">
         <h2 class="app-rm-horizontal-margins">{{subtitle}}</h2>
         <video class="app-display-block v-app-section__header__icon"
              :src="svg_path"
@@ -24,7 +25,7 @@
                loop
              />
       </div>
-      <div class="v-app-section__body app-rm-user-event"
+      <div class="v-app-section__body"
            ref="bodyContainer"
       >
         <div class="v-app-section__body__content app-child-rm-horizontal-margins"
