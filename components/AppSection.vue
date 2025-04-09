@@ -94,7 +94,7 @@ function onClicked() {
 .v-app-section {
   box-sizing: border-box;
   cursor: pointer;
-
+  user-select: none;
 }
 
 .v-app-section__title {

@@ -69,7 +69,7 @@
           <li>①<br>
             <br>donnent la possibilité à des personnes
             <br>de se mobilier et s'engager contre les inégalités
-            <br>et les injustices d'imaginer un accès plus large
+            <br>et les injustices, d'imaginer un accès plus large
             <br>et plus juste à des ressources.</li>
           <li>②<br>
             <br>sont des outils de transformation
@@ -84,35 +84,36 @@
           </li>
           <li>⑤<br>
             <br>permettent l'experimentation
-            <br>et la replicabilité
+            <br>et la replicabilité.
           </li>
           <li>⑥<br>
             <br>ne sont pas une mode
             <br>ou une tendance éphémère.
           </li>
         </ul>
-
-        <p style="text-align: right">L’association<br><strong><br>les fantastiques communs</strong></p>
       </AppSection>
 
 
       <AppSection
-              title="Les projets"
+              title="L'approche"
               subtitle="Comment on le fait ?"
               svg_path="shapes/section_C.mp4"
               uniq_id="second"
-              intro="l'association  s'assure qu'une place centrale est accordée à la collaboration, à la pluridisciplinarité, et à l'implication des usager.ère.s. "
+              intro="l'association  s'assure qu'une place centrale est accordée à la collaboration, à la pluridisciplinarité, et à l'implication des usager·ères. "
       >
         <p>
-          Les projets que nous développons visent à:
+          Les projets que nous développons visent à&nbsp;:
         </p>
 
         <ul>
           <li>créer un groupe local pluridisciplinaire autour d'une problématique</li>
-          <li>impliquer les usager.eres.</li>
+          <li>impliquer les usager·ères.</li>
           <li>répondre à des enjeux de territoire</li>
-          <li>et qui s'inscrivent dans des mouvements, des histoires déjà existantes sur le territoire</li>
-          <li>pour adresser ces projets:</li>
+          <li>s'inscrir dans des mouvements, des histoires déjà existantes sur le territoire</li>
+        </ul>
+
+        <p>pour adresser ces projets&nbsp;:</p>
+        <ul>
           <li>nous rassemblons les compétences pluri-disciplinaires les plus adaptées aux enjeux</li>
           <li>nous formons une équipe ad-hoc capable de faire du sur-mesure à chaque projet.</li>
         </ul>
@@ -126,18 +127,19 @@
             <br><u>L’intangible</u>
             <br>Le projet vise à créer un premier cercle d’acteur·rices désirant faire autrement. Ce cercle devra grandir et évoluer par la suite.
             <br>
-            <br><strong>pourquoi?</strong> pour donner vie à des dynamiques durables et solidaires dans un territoire.
+            <br><strong>pourquoi&nbsp;?</strong> pour donner vie à des dynamiques durables et solidaires dans un territoire.
           </li>
 
           <li>②<br>
             <br><u>La documentation du projet</u>
             <br>Cette production intégrera le programme, des récits personnels, des avis, des productions collaboratives, des interviews mais aussi les questionnements, les idées et les conclusions et sujets d’ouverture des participant·es pour le territoire et tout format pouvant servir les objectifs. Les participant·es, acteur·ices des lieux, les facilitateur·trices et relais locaux sont les producteurs de ces communs.
             <br>
-            <br><strong>pourquoi?</strong> pour rassembler les apprentissages, et&nbsp;les partager plus facilement
+            <br><strong>pourquoi&nbsp;?</strong> pour rassembler les apprentissages, et&nbsp;les partager plus facilement
           </li>
 
           <li>③<br>
-            <br>la méthodologie du projet: la recette, neutre, rassemblant les bons ingrédients, les outils utilisés et la temporalité choisie pour ce projet La documentation et la publication de nos travaux sont sous licence libre. pourquoi? pour que d'autres s'en emparent, répliquent et essaiment de nouvelles experiences
+            <br>la méthodologie du projet: la recette, neutre, rassemblant les bons ingrédients, les outils utilisés et la temporalité choisie pour ce projet. La documentation et la publication de nos travaux sont sous licence libre.
+            <br><strong>pourquoi&nbsp;?</strong> pour que d'autres s'en emparent, répliquent et essaiment de nouvelles experiences
           </li>
         </ul>
       </AppSection>
@@ -158,7 +160,7 @@
               border-bottom: solid 1px var(--app-color-beige--dark);
               margin: 0 calc( -1 * var(--app-gutter) );
             "
-        >Projets en développement</h3>
+        >Projets en cours</h3>
 
         <div style="
               background: var(--app-color-beige--dark);
@@ -183,59 +185,21 @@
             <p>Des voyages immersifs pour découvrir des espaces communs qui soutiennent le changement de dynamique sociale de notre société.</p>
             <p>Ils ont pour but de :</p>
             <ol>
-              <li>rassembler un groupe d'acteur.ices pluridisciplinaires genevois, sur une thématique particulière,</li>
-              <li>les embarquer dans un voyage de quelques jours, "tailored" à la thématique d'enrichir ou d'imaginer des projets pour Genève.</li>
-              <li>Documenter les apprentissages, les pistes de reflexion et les idées d'experimentation afin de les diffuser plus largement sur Genève</li>
+              <li>rassembler un groupe d'acteur.ices pluridisciplinaires genevois, sur une thématique particulière</li>
+              <li>les embarquer dans un voyage de quelques jours, "tailored" à la thématique d'enrichir ou d'imaginer des projets pour Genève</li>
+              <li>documenter les apprentissages, les pistes de reflexion et les idées d'experimentation afin de les diffuser plus largement sur Genève</li>
             </ol>
             <p>Chaque projet donnera lieu à des publications physiques et numériques pour ancrer les apprentissages de chaque voyage.</p>
 
             <p style="padding-bottom: 4rem; padding-top: 2rem; text-align: center">
               <a class="app-button" style="margin: auto;"
+                 target="_blank"
                  href="https://voyage-exploratoire.lesfantastiquescommuns.cc/"
               >accéder au projet</a>
             </p>
 
           </div>
         </div>
-
-        <div style="
-                margin-left: calc(-1 * var(--app-gutter));
-                background: var(--app-color-beige--dark);
-                border-left: solid var(--app-gutter) var(--app-color-beige--dark);
-                ">
-          <h3 style="
-                  margin-bottom: 0;
-                  background: var(--app-color-beige);
-                  border-top: solid var(--app-border-width) var(--app-color-beige--dark);
-                  border-bottom: solid var(--app-border-width) var(--app-color-beige--dark);
-                  display: inline-block;
-                  padding: var(--app-gutter);
-                  padding-right: 3em;
-                  ">Les Résidences Merveilleuses</h3>
-          <div style="
-                padding-left: var(--app-gutter);
-                background: var(--app-color-beige);
-                border-left: solid var(--app-gutter) var(--app-color-beige--dark);
-                padding-top: var(--app-gutter);
-                padding-bottom: var(--app-gutter);
-                ">
-            <p>Elles sont des projets de recherche- action collaboratifs ayant pour objectif de démultiplier les relations et interconnections, de raconter des histoires plus finement et de publier pour fédérer autour de problématiques sociales, individuelles et collectives</p>
-            <p>lieu de porosité et de créativité:</p>
-            <p>Elles invitent les acteurs impliqués à se sentir tour à tour observateurs, enquêteurs ou expérimentateurs.</p>
-            <p>Elles cherchent à multiplier les interactions et à explorer des futurs possibles, en cohérence avec les valeurs du lieu dans lequel elles s'installent: le lien, l’accueil inconditionnel, la créativité et l’échange au bénéfice du plus grand nombre.</p>
-
-            <h4>Principes Fondateurs</h4>
-            <p>La Résidence repose sur plusieurs principes clés :</p>
-            <ul>
-              <li>Immersion dans les contextes : Appréhender les réalités de vie dans leur complexité grâce à une observation participante.</li>
-              <li>Création de situations : Mettre en place des ateliers, des expériences et des installations pour favoriser les échanges, questionner les imaginaires et produire une meilleure compréhension des vécus.</li>
-              <li>Émergence des problématiques : Accepter que les problématiques émergent au cours du processus et qu’elles soient définies et priorisées par les personnes concernées.</li>
-              <li>Documentation et partage : Documenter le chemin parcouru et produire des outils et résultats au service des usagers.</li>
-            </ul>
-
-          </div>
-        </div>
-
 
         <div style="
                 margin-left: calc(-1 * var(--app-gutter));
@@ -275,12 +239,46 @@
               border-bottom: solid 1px var(--app-color-beige--dark);
               margin: 0 calc( -1 * var(--app-gutter) );
             ">Projets à venir</h3>
-        <p>
-          <strong>Les résidences merveilleuses :</strong> projets de recherche-action collaboratifs ayant pour objectif de démultiplier les relations et interconnections, de raconter des histoires plus finement et de publier pour fédérer autour de problématiques sociales, individuelles et collectives.
-        </p>
-        <p>
-          <strong>Les conciergeries du commun :</strong> dispositifs d’expérimentation et d’engagement collectif à travers l’installation d’une permanence qui met en place des initiatives pour favoriser l’émergence, le soin et la gestion de communs.
-        </p>
+
+        <div style="
+                margin-left: calc(-1 * var(--app-gutter));
+                background: var(--app-color-beige--dark);
+                border-left: solid var(--app-gutter) var(--app-color-beige--dark);
+                ">
+          <h3 style="
+                  margin-bottom: 0;
+                  background: var(--app-color-beige);
+                  border-top: solid var(--app-border-width) var(--app-color-beige--dark);
+                  border-bottom: solid var(--app-border-width) var(--app-color-beige--dark);
+                  display: inline-block;
+                  padding: var(--app-gutter);
+                  padding-right: 3em;
+                  ">Les Résidences Merveilleuses</h3>
+          <div style="
+                padding-left: var(--app-gutter);
+                background: var(--app-color-beige);
+                border-left: solid var(--app-gutter) var(--app-color-beige--dark);
+                padding-top: var(--app-gutter);
+                padding-bottom: var(--app-gutter);
+                ">
+            <p>Elles sont des projets de recherche- action collaboratifs ayant pour objectif de démultiplier les relations et interconnections, de raconter des histoires plus finement et de publier pour fédérer autour de problématiques sociales, individuelles et collectives.</p>
+
+            <h4>Lieu de porosité et de créativité</h4>
+
+            <p>Elles invitent les acteurs impliqués à se sentir tour à tour observateurs, enquêteurs ou expérimentateurs.</p>
+            <p>Elles cherchent à multiplier les interactions et à explorer des futurs possibles, en cohérence avec les valeurs du lieu dans lequel elles s'installent: le lien, l’accueil inconditionnel, la créativité et l’échange au bénéfice du plus grand&nbsp;nombre.</p>
+
+            <h4>Principes Fondateurs</h4>
+            <p>La Résidence repose sur plusieurs principes clés :</p>
+            <ul>
+              <li><strong>Immersion dans les contextes</strong> : Appréhender les réalités de vie dans leur complexité grâce à une observation participante.</li>
+              <li><strong>Création de situations</strong> : Mettre en place des ateliers, des expériences et des installations pour favoriser les échanges, questionner les imaginaires et produire une meilleure compréhension des vécus.</li>
+              <li><strong>Émergence des problématiques</strong> : Accepter que les problématiques émergent au cours du processus et qu’elles soient définies et priorisées par les personnes concernées.</li>
+              <li><strong>Documentation et partage</strong> : Documenter le chemin parcouru et produire des outils et résultats au service des usagers.</li>
+            </ul>
+
+          </div>
+        </div>
       </AppSection>
 
 
