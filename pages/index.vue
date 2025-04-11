@@ -109,7 +109,7 @@
           <li>créer un groupe local pluridisciplinaire autour d'une problématique</li>
           <li>impliquer les usager·ères.</li>
           <li>répondre à des enjeux de territoire</li>
-          <li>s'inscrir dans des mouvements, des histoires déjà existantes sur le territoire</li>
+          <li>s'inscrire dans des mouvements, des histoires déjà existantes sur le territoire</li>
         </ul>
 
         <p>pour adresser ces projets&nbsp;:</p>
@@ -138,7 +138,8 @@
           </li>
 
           <li>③<br>
-            <br>la méthodologie du projet: la recette, neutre, rassemblant les bons ingrédients, les outils utilisés et la temporalité choisie pour ce projet. La documentation et la publication de nos travaux sont sous licence libre.
+            <br><u>la méthodologie du projet</u>
+              <br>la recette, neutre, rassemblant les bons ingrédients, les outils utilisés et la temporalité choisie pour ce projet. La documentation et la publication de nos travaux sont sous licence libre.
             <br><strong>pourquoi&nbsp;?</strong> pour que d'autres s'en emparent, répliquent et essaiment de nouvelles experiences
           </li>
         </ul>
