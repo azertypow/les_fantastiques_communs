@@ -6,7 +6,7 @@
              @mousedown="onMouseEvent('DOWN')"
              @mouseup="onMouseEvent('UP')"
              @mouseleave="onMouseEvent('LEAVE')"
-             @click="onClicked()"
+             @click="onClicked"
              ref="appSectionElement"
              :id="uniq_id"
     >
@@ -70,7 +70,10 @@ function onMouseEvent(direction: 'UP' | 'DOWN' | 'LEAVE') {
     else element.classList.remove('is-up')
 }
 
-function onClicked() {
+function onClicked(e: Event) {
+
+    if( e.target instanceof HTMLAnchorElement ) return
+
     isOpen.value = !isOpen.value
 
     const containerElement  = bodyContainer.value
