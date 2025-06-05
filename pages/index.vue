@@ -190,14 +190,95 @@
               <li>les embarquer dans un voyage de quelques jours, "tailored" à la thématique d'enrichir ou d'imaginer des projets pour Genève</li>
               <li>documenter les apprentissages, les pistes de reflexion et les idées d'experimentation afin de les diffuser plus largement sur Genève</li>
             </ol>
-            <p>Chaque projet donnera lieu à des publications physiques et numériques pour ancrer les apprentissages de chaque voyage.</p>
 
-            <p style="padding-bottom: 4rem; padding-top: 2rem; text-align: center">
+            <p>
+              Chaque projet donne lieu à deux types de publications: celles produites par les voyageur·euse·s eux-mêmes: documentation, apprentissages…  et celles, méthodologiques, produites par l’équipe des fantastiques communs.
+            </p>
+
+
+            <h3>Les productions des voyageur·euse·s</h3>
+            <p>
+              Via le lien ci-dessous vous accèderez à l’ensemble des productions des voyageur·euse·s lors du « premier » voyage sur les lieux à impact social :
+            </p>
+
+            <p style="padding-bottom: 5rem; padding-top: 2rem;">
               <a class="app-button" style="margin: auto;"
                  target="_blank"
                  href="https://voyage-exploratoire.lesfantastiquescommuns.cc/"
               >accéder au projet</a>
             </p>
+
+            <h3>Les méthodes et outils</h3>
+
+            <p>
+              Les liens ci dessous vous permettrons d’accéder à la méthodologie et aux outils développés par les fantastiques communs, en CC BY SA, pour rendre ce voyage possible
+            </p>
+
+            <p>
+              Chaque document est téléchargeable en version pdf (la version modifiable arrive bientôt)
+            </p>
+
+            <h4>
+              Méthodologie du Voyage exploratoire
+            </h4>
+            <p>Ce manuel regroupe les éléments clés et les outils identifiés comme essentiels à la conception et à la réussite d’un voyage exploratoire.</p>
+            <div style="margin-top: 1rem; margin-bottom: 3rem; display: flex; gap: 1rem; flex-wrap: wrap;">
+              <a class="app-button" href="/PDFs/250508_FC-VE_methode.pdf" >Version écran</a>
+              <a class="app-button" href="/PDFs/250523_FC-VE_methode_impression.pdf" >Version imprimable</a>
+            </div>
+
+            <div style="font-size: 1rem; line-height: 1.25em; margin-top: 1rem">
+              Consignes d’impression :
+              <ul>
+                <li>Imprimez l’ensemble du pdf en recto-verso (coté court).</li>
+                <li>Pliez en deux la première page pour former la couverture. </li>
+                <li>Découpez le reste des pages le long des pointillés pour obtenir les différentes fiches à insérer dans la couverture.</li>
+              </ul>
+            </div>
+
+
+            <h4>Les outils&nbsp;</h4>
+
+            <ul>
+              <li style="padding-bottom: 2rem">
+                Questionnaire pré-voyage: il sert à mieux connaître l’experience des voyageur.euses et leurs points de vue sur les enjeux du territoire de départ.
+                <div style="padding-top: 1rem;">
+                  <a class="app-button" style="display: inline-block"
+                     href="/PDFs/Guide_entretien_PRE_voyage_.pdf"
+                  >Version pdf</a>
+                </div>
+              </li>
+              <li style="padding-bottom: 2rem">
+                <div>
+                  Exposition sur le voyageur-enquêteur : elle ouvre le champ des possibles un jour avant le départ en voyage. Elle rassemble des oeuvres et productions d’artistes, de designers, de sociologues, d’antropologues, d’auteur.ices de différentes époques autour du sujet du voyage et de la posture d’enquêteur.ice.
+                </div>
+                <div style="padding-top: 1rem;">
+                  <a class="app-button" style="display: inline-block"
+                     href="https://nextcloud.superhangar.cc/s/mTC2j9xbzm8Gyzz"
+                  >Accéder au contenu de l'exposition</a>
+                </div>
+              </li>
+
+              <li style="padding-bottom: 2rem">
+                <div>Carte postale: il s’agit d’une consigne donnée à chaque voyageur·euse, après la visite d’un lieu pour capturer les impressions immédiates et les bonnes idées pour le territoire de départ.</div>
+                <div style="padding-top: 1rem;">
+                  <a class="app-button" style="display: inline-block"
+                     href="/PDFs/consigne_carte_postale_bristol_rectoverso.pdf"
+                  >Version pdf</a>
+                </div>
+              </li>
+
+              <li style="padding-bottom: 2rem">
+                <div>
+                  Questionnaire post voyage: il permet de prendre du recul à posteriori sur ses propres apprentissages et vise à soutenir le passage à l’action
+                </div>
+                <div style="padding-top: 1rem;">
+                  <a class="app-button" style="display: inline-block"
+                     href="/PDFs/Guide_entretien_POST_voyage_.pdf"
+                  >Version pdf</a>
+                </div>
+              </li>
+            </ul>
 
           </div>
         </div>
