@@ -223,8 +223,8 @@
             </h4>
             <p>Ce manuel regroupe les éléments clés et les outils identifiés comme essentiels à la conception et à la réussite d’un voyage exploratoire.</p>
             <div style="margin-top: 1rem; margin-bottom: 3rem; display: flex; gap: 1rem; flex-wrap: wrap;">
-              <a class="app-button" href="/PDFs/250508_FC-VE_methode.pdf" >Version écran</a>
-              <a class="app-button" href="/PDFs/250523_FC-VE_methode_impression.pdf" >Version imprimable</a>
+              <a class="app-button" target="_blank" href="/PDFs/250508_FC-VE_methode.pdf" >Version écran</a>
+              <a class="app-button" target="_blank" href="/PDFs/250523_FC-VE_methode_impression.pdf" >Version imprimable</a>
             </div>
 
             <div style="font-size: 1rem; line-height: 1.25em; margin-top: 1rem">
@@ -244,6 +244,7 @@
                 Questionnaire pré-voyage: il sert à mieux connaître l’experience des voyageur.euses et leurs points de vue sur les enjeux du territoire de départ.
                 <div style="padding-top: 1rem;">
                   <a class="app-button" style="display: inline-block"
+                     target="_blank"
                      href="/PDFs/Guide_entretien_PRE_voyage_.pdf"
                   >Version pdf</a>
                 </div>
@@ -254,6 +255,7 @@
                 </div>
                 <div style="padding-top: 1rem;">
                   <a class="app-button" style="display: inline-block"
+                     target="_blank"
                      href="https://nextcloud.superhangar.cc/s/mTC2j9xbzm8Gyzz"
                   >Accéder au contenu de l'exposition</a>
                 </div>
@@ -263,6 +265,7 @@
                 <div>Carte postale: il s’agit d’une consigne donnée à chaque voyageur·euse, après la visite d’un lieu pour capturer les impressions immédiates et les bonnes idées pour le territoire de départ.</div>
                 <div style="padding-top: 1rem;">
                   <a class="app-button" style="display: inline-block"
+                     target="_blank"
                      href="/PDFs/consigne_carte_postale_bristol_rectoverso.pdf"
                   >Version pdf</a>
                 </div>
@@ -274,6 +277,7 @@
                 </div>
                 <div style="padding-top: 1rem;">
                   <a class="app-button" style="display: inline-block"
+                     target="_blank"
                      href="/PDFs/Guide_entretien_POST_voyage_.pdf"
                   >Version pdf</a>
                 </div>
