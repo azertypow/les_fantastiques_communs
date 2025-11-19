@@ -381,8 +381,7 @@
         <p>
           Gilbert Robert
           <br>François Antille
-          <br>Coline Drévo
-          <br>Reda El Andaloussi
+          <br>Yann Boggio
         </p>
 
         <h3>Équipe</h3>
@@ -390,6 +389,10 @@
           Anaïse Antille
           <br>Clément Drévo
           <br>Trinité Laroche
+          <br>Coline Jüngling
+          <br>Julia Chraïti
+          <br>Cécile Roche Boutin
+          <br>Cora Aguirre
         </p>
       </AppSection>
 
